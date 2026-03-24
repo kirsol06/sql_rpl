@@ -52,5 +52,5 @@
 
 1. Создать пустую базу данных в PostgreSQL
 2. Выполнить `schema.sql`
-3. Выполнить `seed.sql`
+3. Выполнить `seed_clean.sql`
 4. Выполнить `analysis.sql`
